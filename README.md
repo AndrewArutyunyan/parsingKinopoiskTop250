@@ -17,4 +17,4 @@ The repo contains examples of downloaded pages and resulting bar chart.
 The most popular genres of TV-shows are:
 1. Drama
 2. Animation
-3. Science fiction (Fantasy)
+3. Comedy
