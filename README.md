@@ -10,3 +10,11 @@ Test task to parse kinopoisk.ru to find out which TV-show genres are currently p
 
 1. Run webdriver (execute msedgedriver.exe)
 2. Run script from IDE or from terminal
+
+## Results
+
+The repo contains examples of downloaded pages and resulting bar chart.
+The most popular genres of TV-shows are:
+1. Drama
+2. Animation
+3. Science fiction (Fantasy)
