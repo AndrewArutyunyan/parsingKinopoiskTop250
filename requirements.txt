@@ -1,0 +1,5 @@
+beautifulsoup4==4.10.0
+browser_cookie3==0.13.0
+matplotlib==3.5.1
+requests==2.26.0
+selenium==4.1.0
